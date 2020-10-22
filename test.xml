@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type='text/css' href='style.css'?>
+<document>
+    <!-- we can put commands -->
+    <module lecturer="20191234">Interactive Web Applications&#33;</module>
+<module>
+    <ca>1</ca>
+    <title>my first app</title>
+</module>
+</document>
