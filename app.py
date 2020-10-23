@@ -1,9 +1,7 @@
 # pip install -- upgrate lxml
 
-import xml.etree.ElementTree as ET
-tree = ET.parse ('example.xml')
-root = tree.getroot()
-print(root.findall('.//COURSE/MARK'))
+import xml.etree
+tree = xml.etree ('example.xml')
 
-#for i in root.findall("./ASSESSMENTS/STUDENT/MARK"):
- #   print(i)
+for i in tree.xpath("./ASSESSMENTS/STUDENT/MARK"):
+   print(i)
