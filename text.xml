@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>  <!-- decorration -->
+<document>
+    <module lecturer="Mark">Info Retrieval and Data Management</module>
+<ca>
+    <title>Assigment 1</title>
+    <submission>23:59</submission>
+    <submission_date>30/10/2020</submission_date>
+</ca>
+<module>Advanced Databases</module>
+<module/>
+<!-- this is a comment
+    This is a multi-line comment -->
+</document>
